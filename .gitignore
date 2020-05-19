@@ -1,0 +1,21 @@
+#ignore images
+*.png
+*.bmp
+*.jpg
+
+#ignre text files
+*.txt
+*.docx
+
+#ignore json
+*.json
+
+#ignore models
+*.h5
+
+#folders
+
+baza/
+baza_7/
+baza_kategorie/
+modele/
