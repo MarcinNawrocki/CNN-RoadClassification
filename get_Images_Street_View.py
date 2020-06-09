@@ -47,5 +47,3 @@ for i in range(n):
 
 		procent = round(((i+1)*(j+1)/(n*(j+1)))*100)
 		print(str(procent)+'%')
-
-AIzaSyDIX0TDii1oCRpSM8ohU5Mu3prvwVA9OD8
