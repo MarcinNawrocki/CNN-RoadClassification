@@ -1,6 +1,7 @@
 #ignore images
 *.bmp
 *.jpg
+*.png
 
 #ignre text files
 *.txt
@@ -12,11 +13,13 @@
 #ignore models
 *.h5
 
+#python compiles
+*.pyc
+
 #folders
 
-baza/
-baza_7/
-baza_kategorie/
-modele/
+data/
+model/
 sample_images/
-ICR_Nawrocki_Ostrowski/
+.ipynb_checkpoints/
+.vscode/
