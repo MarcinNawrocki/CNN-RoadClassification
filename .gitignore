@@ -18,7 +18,8 @@
 
 #folders
 
-data/
+data/processed
+data/raw
 model/
 sample_images/
 .ipynb_checkpoints/
