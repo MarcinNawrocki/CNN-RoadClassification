@@ -67,7 +67,7 @@ def predict (model, np_sample):
     Returns:
         [str] -- predicted class name
     """
-    labels = {0:"Asphalt", 1:"Cubblestones", 2:"Paved", 3:"Unpaved"}
+    labels = {0:"Asphalt", 1:"Cobblestones", 2:"Paved", 3:"Unpaved"}
     #model prediction return as one-hot encoding
     np_sample_4d = np.expand_dims(np_sample, axis=0)
     one_hot_prediction = model.predict(np_sample_4d)

@@ -24,3 +24,4 @@ model/
 sample_images/
 .ipynb_checkpoints/
 .vscode/
+.idea/vcs.xml
